@@ -29,7 +29,7 @@ int main() {
     int choice;
 
     while (1) {
-        printf("\n==== Simple Cyber Incident Tracker ====\n");
+        printf("\n==== Cyber Incident Response Tracker ====\n");
         printf("1. Add Incident\n");
         printf("2. List All Incidents\n");
         printf("3. Update Ages\n");

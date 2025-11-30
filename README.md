@@ -1,6 +1,6 @@
 # Nimbus_Project_57
 
-# Simple Cyber Incident Tracker
+# Cyber Incident Response Tracker
 
 A C-language based console application to log, monitor, and report cyber-security incidents.
 
